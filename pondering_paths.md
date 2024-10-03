@@ -1,4 +1,4 @@
-#Pondering Paths
+# Pondering Paths
 
 **Challenge 1:** Entered /pwn into the terminal 
 
