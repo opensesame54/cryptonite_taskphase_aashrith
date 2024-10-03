@@ -16,5 +16,5 @@
 
 **Challenge 8:** went to the challenge directory. Since the run file is already in challenge, executed it using ./run
 
-**Challenge 9:** used the absolute directory /challenge/run and copied it to a file in y home directory i.e **/challenge/run ~/f**
+**Challenge 9:** used the absolute directory /challenge/run and copied it to a file in my home directory i.e **/challenge/run ~/f**
 
