@@ -71,4 +71,9 @@ flag= pwn.college{QYzj1qMqIhvcv2JPj6ho-wQYluL.dBDO0UDL0MDO0czW}
 ```
 ![image](https://github.com/user-attachments/assets/af06e28b-f143-45d2-aa18-6ac1866cf155)
 
-### 
+### Split piping stderr and stdout 
+```
+This challenge teaches us the method of redirection. We pipe the stdout and stderr seperately into their respective files. So the command will be /challenge/hack > >( /challenge/planet ) 2> > ( /challenge/the ) to get the flag. 
+flag=pwn.college{AJ98VIAcNcV1tPPUIgOoQoQRO5S.dFDNwYDL0MDO0czW}
+```
+![image](https://github.com/user-attachments/assets/0c70f6a8-f89d-4a21-b006-080a31132f52)
