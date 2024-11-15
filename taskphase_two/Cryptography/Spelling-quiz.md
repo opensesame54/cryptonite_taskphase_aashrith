@@ -5,4 +5,4 @@ Originally, we would need to write a decryption code, and pass the large list of
 
 An  aristrocratic cipher is a cipher which uses monoalphabetic substituition, and the most common letter used in the english language is 'e'. Using quipquip to solve for the flag, we get the flag.
 
-flag=perhaps the dog jumped over was just tired
+flag=picoCTF{perhaps_the_dog_jumped_over_was_just_tired}
